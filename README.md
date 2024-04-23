@@ -15,7 +15,3 @@ The following is a portion of the paper I wrote for a Graphics Programming class
 # References
 Angel, E., & Shreiner, D. (2015a). Interactive Computer Graphics: A Top-down Approach with WebGL. Addison-Wesley.
 ![image](https://github.com/Lizzard08/Sierpinski_Triangle/assets/121459797/d7baca07-f0e6-48a8-a52a-fccad2480a76)
-
- 
- The following image is of the Sierpinski gasket that uses the Z-Buffer algorithm to hide the surfaces behind other objects.
-![image](https://github.com/Lizzard08/Sierpinski_Triangle/assets/121459797/57ec2ebf-8034-442f-a9e8-af85f08d67c9)
